@@ -7,8 +7,6 @@ website:
   navbar:
     left:
       - about.qmd
-      - href: ../gg_blog/index.qmd
-        text: GG Blog
 
 format:
   html:
