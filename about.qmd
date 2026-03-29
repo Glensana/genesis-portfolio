@@ -8,7 +8,7 @@ about:
   links:
     - icon: envelope
       text: "{{< animate fadeIn 'Email' >}}"
-      href: g.ramosrosado@gmail.com
+      href: gramosr2@asu.edu
 comments: false
 page-layout: full
 ---
@@ -25,13 +25,16 @@ page-layout: full
 
 **Doctoral Student in Counseling Psychology** | Arizona State University\
 August 2022 - Present\
+School of Counseling and Counseling Psychology (SCCP)
+
+**Master of Arts in Counseling Psychology** | Arizona State University\
+Graduation: May 2024\
 Masters in Passing Approved Thesis: *Colonial Mentality as a vehicle of fragmentation and horizontal oppression in Puerto Ricans living in the United States*\
 Thesis Committee: Dr. Cristalís Capielo Rosario, Dr. Em Matsuno, & Nancy Truong\
-GPA: 4.00
 
 **Bachelor of Arts in Psychology** | University of Puerto Rico at Mayagüez\
 Graduation: May 2021\
-Undergraduate Thesis: *Causal attributions of poverty and attitudes towards people living in poverty in UPRM sudents*\
+Undergraduate Thesis: *Causal attributions of poverty and attitudes towards people living in poverty in UPRM students*\
 Thesis Advisor: Dr. Janet Bonilla
 
 
@@ -48,13 +51,15 @@ The International Honor Society in Psychology (Psi-Chi) Membership | 2018 - Pres
 - Native Spanish and English speaker
 
 ## Certifications
+- Crisis Prevention Institute (CPI) Non-violent Crisis Intervention
+- Primeros Auxilios Psicológicos (Psychological First Aid)
 - Collaborative Institutional Training Initiative (CITI) Certification Social & Behavioral Research
 - National Institute of Health (NIH) Certification Protecting Human Research Participants
 
 ## Computer Skills
 - Qualtrics Survey Software
 - Survey Monkey
-- Google Platforms and Microsoft Programs (Word and PowerPoint)
+- Google and Microsoft Platforms
 - PSPP and SPSS
 - Canva
 
@@ -66,11 +71,13 @@ The International Honor Society in Psychology (Psi-Chi) Membership | 2018 - Pres
 
 *August 2022 - Present* – **Arizona State University (ASU) Presidential Scholar**
 
-*October 2024* - **School of Counseling and Counseling Psychology (SCCP) Travel Grant Award** | Arizona State University (ASU)
+*January 2026* - **School of Counseling and Counseling Psychology (SPCC) Graduate Fellowship Research Award** | Arizona State University (ASU)
+
+*November 2025 & August 2023* - **Graduate College University Grant Award** | Arizona State University (ASU)
+
+*November 2025 & October 2024* - **School of Counseling and Counseling Psychology (SCCP) Travel Grant Award** | Arizona State University (ASU)
 
 *October 2024 & October 2023* - **Graduate and Professional Student Association Travel Grant Award** | Arizona State University (ASU)
-
-*August 2023* - **Graduate College University Grant Award** | Arizona State University (ASU)
 
 *October 2022* - **Travel Award** | National Latinx Psychological Association (NLPA)
 
@@ -88,26 +95,35 @@ The International Honor Society in Psychology (Psi-Chi) Membership | 2018 - Pres
 
 *January 2020* - **Association of Retired Professors (ACJ) Scholarship** | University of Puerto Rico at Mayagüez
 
-*2018 - 2021* - **University Dean's List** | University of Puerto Rico at Mayagüez
+# Papers, Presentations, Publications, and Reviews
 
-# Papers, Presentations, and Publications
+## Peer-Reviewed Publications
+- Morales Hernández, P.N., Capielo Rosario, C., Fuentes, M., Soto, M., **Ramos-Rosado, G.** (accepted)."Nos explotan, pero aún así tenemos que respetarlos": Rethinking Latine cultural values through a critical lens. *Journal of Latinx Psychology.*
 
-## Academic Publications
-- Capielo Rosario, C., Adames, H. Y., **Ramos-Rosado, G.**, Muro, N., & De Jesus, L. (2024). *Colonial shadows: Coloniality of being and lower-middle class Puerto Ricans immigrants in the United States. Journal of Counseling Psychology.*
+- Capielo Rosario, C., **Ramos-Rosado, G.**, & López Feliciano, D.J. (accepted). Internalized colorism and Puerto Rican health. *Revista Puertorriqueña de Psycología.*
 
-- Capielo Rosario, C., **Ramos-Rosado, G.**, & Hargons, C. (in press). *¡Sí Se Pudo! Now What?: Preparing and Starting Graduate School as a Bilingual Student.*
+- **Ramos-Rosado, G.,** & Capielo Rosario, C. (2025). Colonial Mentality, Fragmentation, and Resistance Among Puerto Ricans Living in the United States. *Qualitative Psychology.* https://doi.org/10.1037/qup0000347
 
-- **Ramos-Rosado, G.**, & Capielo Rosario, C. (under review). *Colonial mentality, fragmentation, and resistance, among Puerto Ricans living in the United States.*
+- Capielo Rosario, C., Adames, H. Y., **Ramos-Rosado, G.**, Muro, N., & De Jesus, L. (2024). Colonial shadows: Coloniality of being and lower-middle class Puerto Ricans immigrants in the United States. *Journal of Counseling Psychology.*, 71(5), 328–342. https://doi.org/10.1037/cou0000756
 
 ## Manuscripts in Preparation
-- Capielo Rosario, C., **Ramos-Rosado, G.**, Sánchez, A., & López Feliciano, D.J. (in preparation). *Internalized colorism and Puerto Rican health.*
+- Colóm Cruz, A., Alemañy Matías, A., Blasini Hernández, A.I., Pumarejo Bello, M.F., **Ramos-Rosado, G.**, Lázaro, J.A., Peña Avilés, P., & Rincon, S. (under review). Colonial mentality and traditional gender roles in Puerto Ricans.
 
-- Capielo Rosario, C., Lugo-Hernández, E., **Ramos-Rosado, G.**, & Luiggi Hernández, J. (in preparation). *Puerto Rico calls us to a psychology of subversion: Laziness and anti-echarpalantismo, cimarronaje, and auto\gestión.*
+- Capielo Rosario, C., **Ramos-Rosado, G.**, López Feliciano, D.J., Morales Hernández, P.N., Hernández, M.J., & Le M. (under review). Reckoning with Empires: Conceptualizaing Puerto Rican colonial trauma and the need for reparations. *American Psychologist.*
 
-- Colom Cruz, A., Alemañy Matías, A., Blasini Hernández, A.I., Pumarejo Bello, M.F., **Ramos-Rosado, G.**, Lázaro, J.A., Peña Avilés, P., & Rincon, S. (in preparation). *Colonial mentality and traditional gender roles in Puerto Ricans.*
+- Capielo Rosario, C., **Ramos-Rosado, G.**, Lugo-Hernández, E., Adames, H.Y., Chavez-Dueñas, N.Y. (in preparation) *Benito Antonio Martínez Ocasio Presenta el Espectáculo del Medio Tiempo del Super Tazón: Power, Identity, and Resistance.*
+
+## Book Chapters
+- Capielo Rosario, C., **Ramos-Rosado, G.**, & Hargons, C. (in press). ¡Sí Se Pudo! Now What?: Preparing and Starting Graduate School as a Bilingual Student. In M. Campos, J. Mejía, & A.J. Consoli (Eds.), *Forging Caminos: Pathways to Becoming a Bilingual Mental Health Professional* (pp. 49-67). American Psychological Association. https://doi.org/10.1037/0000481-004
 
 ## Presentations
-- Capielo Rosario, C., **Ramos-Rosado, G.**, Luiggi-Hernández, J., & Feliciano Graniela, F.E. (2024, October 17-19). Puerto Rico calls us to a psychology of subversión: Queer laziness and anti-echarpalantismo, cimarronaje and auto/gestión [Panel]. Weaving a Community-Engaged Psychological Science, National Latinx Psychological Association, San Juan, PR.
+- **Ramos-Rosado, G.**, Morales Hernández, P.N., Soto, M.X. (2026, January 28-30). *Beyond Problematización and Conscientización: Exploring Sentipensar as a Reclamation of Our Humanity* [Roundtable]. Reclaiming Our Stories: From Our Ancestor to Action, National Multicultural Conference and Summit, Seattle, WA.
+
+- **Ramos-Rosado, G.** (2026, January 28-30). Cultural values, fragmentation, and resistance among Puerto Ricans living in the United States. In C. Capielo Rosario (chair), *Coloniality, Cultural Values, and Resistance: Decolonizing Latinx values throug critical inquiry* [Symposium]. Reclaiming Our Stories: From Our Ancestor to Action, National Multicultural Conference and Summit, Seattle, WA.
+
+- Capielo Rosario, C., **Ramos-Rosado, G.**, Morales Hernández, P.N. (2025, November 6-8). Un marco etnopolítico para las prácticas de conceptualización y sanación psicológica en puertoriqueñes [An ethnopolitical framework for the conceptualization and psycological healing of Puerto] [Workshop], Rompiendo el Model ¿Cómo provocamos cambios en los sistemas?, Asociación de Psicología de Puerto Rico, San Juan, PR.
+
+- Capielo Rosario, C., **Ramos-Rosado, G.**, Luiggi-Hernández, J., & Feliciano Graniela, F.E. (2024, October 17-19). *Puerto Rico calls us to a psychology of subversión: Queer laziness and anti-echarpalantismo, cimarronaje and auto/gestión* [Panel]. Weaving a Community-Engaged Psychological Science, National Latinx Psychological Association, San Juan, PR.
 
 - **Ramos-Rosado, G.** (2024, October 17-19). Slippery semantics and the construction of racial hierarchies in Puerto Ricans and community care as a path to healing. In E. Medina (chair), *Colonial mentality, the racialization of Black Puerto Ricans and community care as an act of cimarronaje* [Symposium]. Weaving a Community-Engaged Psychological Science, National Latinx Psychological Association, San Juan, PR.
 
@@ -135,6 +151,14 @@ The International Honor Society in Psychology (Psi-Chi) Membership | 2018 - Pres
 (2019, October 26). *Estudio descriptivo de la participación cívica y política de jóvenes universitarios*
  [Descriptive study of civic and political participation of university students] [Poster presentation]. Fifth Behavioral
 
+## Professional Reviews
+**Student Advisory Board Member** | January 2025 - Present\
+Journal of Latinx Psychology (JLP) Student Advisory Board\
+
+- Evaluate JLP's practices and provide suggestions to uphold an inclusive science that supports equitable content in the Latinx community.
+- Review manuscripts submitted to JLP and complete evaluations.
+- Promote JLP as an academic and professional resource.
+
 ## Newspaper/Magazine Publications
 
 - **Ramos-Rosado, G.** (2020, October, 24). ¿Educación, accesible y de calidad? [Free, accesible, and quality education?]. Metro Puerto Rico. https://www.metro.pr/pr/blogs/2020/10/24/opinion-genesis-ramos-educacion-gratuita-accesible-calidad.html
@@ -144,14 +168,6 @@ The International Honor Society in Psychology (Psi-Chi) Membership | 2018 - Pres
 
 # Research Experience
 
-**Graduate Research Consultant** | January 2024 - Present\
-Undergraduate Social Psychology Research Initiative (USPRI)\
-PI: Adriana Colóm Cruz
-
-- Support undergraduate student researchers in creating and developing poster presentations and scientific articles.
-- Mentor undergraduate students interested in applying to graduate programs.
-- Develop research projects in Puerto Rico examining the impact of coloniality on Puerto Ricans’ well-being.
-
 **Lab Leader and Research Assistant** | August 2022 - Present\
 Psicología Latinx en Acción (PLENA), Arizona State University\
 PI: Dr. Cristalís Capielo Rosario
@@ -160,6 +176,14 @@ PI: Dr. Cristalís Capielo Rosario
 - Lead weekly laboratory meetings.
 - Analyze data for journal manuscripts.
 - Create and present investigative posters for national conferences.
+
+**Graduate Research Consultant** | January 2024 - May 2025\
+Undergraduate Social Psychology Research Initiative (USPRI)\
+PI: Adriana Colóm Cruz
+
+- Support undergraduate student researchers in creating and developing poster presentations and scientific articles.
+- Mentor undergraduate students interested in applying to graduate programs.
+- Develop research projects in Puerto Rico examining the impact of coloniality on Puerto Ricans’ well-being.
 
 **Volunteer Research Assistant** | March 2021 - May 2022\
 Psicología Latinx en Acción (PLENA), Arizona State University\
@@ -198,23 +222,40 @@ PI: Dr. Eduardo Lugo-Hernández
 
 # Clinical Experience
 
-**Advanced Practicum Bilingual Therapist in Training** | January 2025 - Present\
+**Doctoral Student Clinical Supervisor**, | January 2026 - Present\
+Counselor Training Center (CTC), Arizona State University (ASU), Tempe Campus\
+Supervisors: Dr. Nancy Truong and Dr. James Bludworth\
+
+- Conduct supervision of master's level counseling student caseload in their begining clinical practicum at the CTC.
+- Facilitate weekly individual supervision with supervisee.
+- Co-facilitate weekly group supervision for master's level counseling students completing their beginning clinical practicum at the CTC.
+
+**Intern Therapist Trainee** | July 2025 - Present\
+Clinical Psychology Center and Health Resources and Services Administration (HRSA) Training Consortium, Arizona State University (ASU)\
+Supervisors: Dr. Matt Meier and Dr. Rachel Ocampo-Hoogasian\
+
+- Provide individual therapy to community members with dual diagnosis.
+- Receive interdisciplinary training focused on the provision of culturally appropriate services for Indigenous population in Arizona, integrative care, and dual diagnosis treatment.
+- Provide Brief Alcohol Screening and Intervention for College Students (BASICS) as part of the ASU Diversion Program.
+
+**Bilingual Intern Therapist** | August 2024 - Present\
+Trauma Healing Services, La Frontera EMPACT-SPC\
+Supervisors: Conrad Brown, LPC and Dr. Mark Treegoob\
+
+- Provide individual bilingual counseling services to Spanish-speaking Latinx survivors of crime presenting with acute stress disorder, adjustment disorders, post-traumatic stress disorder(PTSD) and complex-PTSD.
+- Engage in various community outreach activities activities to increase accessibility to mental health services.
+- Co-facilitate crisis survival skills group for Spanish-speaking Latinx survivors of trauma.
+- Co-facilitate a Spanish processing group for Latina women survivors of domestic violence and sexual abuse, which focused on highlighting feelings of shame and guilt during experiences of victimization and its interaction wit hcultural values.
+- Co-facilitated a psychoeducational group for survivors of trauma focusing on the impact of trauma and developing skilss and strategies to foster self-compassion and holistic wellness after vicitimization.
+- Collaborate with interdisciplinary teams including case managers, trauma advocates, and non-profit organizations to address client's needs and successfully complete coordinations of care.
+
+**Advanced Practicum Bilingual Therapist in Training** | January 2025 - May 2025\
 Counselor Training Center (CTC), Arizona State University, Tempe Campus\
 Supervisor: Dr. Laura Jiménez Arista
 
 - Provide individual therapy in Spanish to community members.
 - Participate in didactic and experiential training to translate and adapt therapeutic interventions.
 - Evaluate the effectiveness and appropriateness of traditional therapeutic practices and translated CBT and DBT training manuals.
-
-**Bilingual Intern Therapist** | August 2024 - Present\
-Trauma Healing Services, La Frontera EMPACT-SPC\
-Supervisors: Dr. Cheryl Warner and Conrad Brown, LPC
-
-- Provide individual bilingual counseling services to Spanish-speaking Latinx survivors of crime and collaborate with interdisciplinary teams including case managers, trauma advocates, and non-profit organizations to address clients’ needs and successfully complete coordination of care.
-- Engage in various community outreach activities to increase accessibility to mental health services.
-- Co-facilitate crisis survival skills group for Spanish-speaking Latinx survivors of trauma.
-- Co-facilitated a Spanish processing group for Latina women who are survivors of domestic violence and sexual abuse, which focused on highlighting feelings of shame and guilt during experiences of victimization and its interaction with cultural values.
-- Co-facilitated a psychoeducational group for survivors of trauma focusing on the impact of trauma and skills and strategies to foster self-compassion and holistic wellness after victimization.
 
 **Advanced Practicum Therapist in Training** | January 2024 - May 2024\
 Counselor Training Center (CTC), Arizona State University, Tempe Campus\
@@ -233,7 +274,17 @@ Supervisor: Dr. Elisa Vasquez
 
 # Teaching Experience
 
-**Instructor of Record** | August 2023 - Present\
+**Instructor of Record** | June 2025 - August 2025\
+School of Counseling and Counseling Psychology, Arizona State University (ASU)\
+Course: CAP 220 Self in a Multicultural Society\
+Supervisor: Dr. Francisco Sánchez & Dr. Laura Jiménez Arista\
+
+- Developed didactic material for undergraduate students covering topics related to social identities, intersectionality, culture, race, ethnicity, sexual orientation, gender identity, socioeconomic status, and others.
+- developed weekly quizzes and activities to foster student learning outcomes.
+- Fostered critical thinking skills through class discussions.
+- Directed and supervised course graders.
+
+**Instructor of Record** | August 2023 - March 2025\
 School of Counseling and Counseling Psychology, Arizona State University\
 Course: CED 250 Career Development\
 Supervisor: Dr. Francisco Sánchez
@@ -293,19 +344,32 @@ Social and Cultural Activities Office, University of Puerto Rico at Mayagüez
 
 # Leadership & Service
 
+**Graduate College Peer Mentor** | December 2025 - Present\
+Graduate College, Arizona State University (ASU)\
+
+- Recruiting counseling psychology graduate students to participate in peer-mentoship to support graduate students'success and retention.
+- Coordinating, designing, and facilitating a monthly peer mentor group to tend to the needs of counseling psychology graduate students.
+- Support mentees by sharing success strategies, including connection, engagement, and academic development that will enrich their professional development. 
+
+**Inclusion Committee Co-chair** | May 2025 - Present\
+School of Counseling and Counseling Psychology (SCCP), Arizona State University (ASU)\
+Faculty Co-Chairs: Dr. Em Matsuno & Dr. Ankita Sahu\
+
+- Organize, develop, and execute inclusion projects impacting the SCCP community including staff and students.
+- Co-facilitate subcommittee meetings and co-develop a work plan to delegate tasks. Promot a culture of inclusion within and outside SCCP aligned with the values of social justice and equity in the counseling psychology field.
+
 **Collaborator and Educational Content Creator** | January 2025 - Present\
 Boricuas Unidos en la Diáspora (BUDPR) [Boricuas United in the Diaspora]
 
 - Conduct research about political and social issues impacting Puerto Rican migration and the Puerto Rican diaspora in the United States.
-- Create scripts, videos, and social media content to provide psychoeducation and resources to the Puerto Rican community about the importance of decolonization and sovereignty.
+- Create scripts, videos, and social media content to provide psychoeducation and resources to the Puerto Rican community about the importance of decolonization and sovereignty
 
-**Volunteer Committee Co-chair** | October 2024 Annual Conference\
-National Latinx Psychological Association (NLPA)
+**Volunteer Committe Co-chair** | 2024\
+National Latinx Psychological Association (NLPA)\
 
-- Organized volunteering schedules and volunteering guide for NLPA’s 2024 annual conference volunteers.
+- Organize volunteering schedules and volunteering guide for NLPA's 2024 annual conference volunteers.
 - Co-directed and co-facilitated training for volunteers.
-- Collaborated in the preparation of pre-conference and conference materials along with the conference organizing committee.
-- Monitored and oversaw conference check-in procedures and continuing education credit registration.
+- Collaborated in the preparation of pre-conference and conference materails along with the conference organizing committee.
 
 **Student Volunteer** | October 2023 - October 2024\
 National Latinx Psychological Association (NLPA)
